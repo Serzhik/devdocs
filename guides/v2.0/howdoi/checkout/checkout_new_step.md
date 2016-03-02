@@ -39,7 +39,7 @@ A new checkout step must be implemented as UI component. That is, its JavaScript
 
 The file must be stored under the `<your_module_dir>/view` directory.
  
-A sample `view/my-step-view.js` with comments follows:
+A sample `view/frontend/web/js/view/my-step-view.js` with comments follows:
 
 {%highlight js%}
 
